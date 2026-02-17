@@ -1,7 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=seIfharm&color=877a6c&style=plastic&base=1187&label=acknowledgements" alt="Profile views"/>
-
 <p align="center">
-<img width="420" height="343" alt="image" src="https://github.com/user-attachments/assets/e8efbe43-0ff0-4cb6-a31c-ec837e406789" />
+
+<img width="420" height="343" alt="image" src="https://github.com/user-attachments/assets/9c0de77f-0105-4201-a0d4-bd29480884c4" />
 </p>
 <p align="center">
 @ 　chuuaku
