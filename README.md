@@ -5,6 +5,6 @@
 <p align="center">
 @ 　chuuaku
   <br>
-  <a href="https://github.com/dazatsu">alt</a>  <a href="https://chuuaku.atabook.org/">atabook</a>  <a href="https://github.com/blackno12">clone</a>
+  <a href="https://github.com/15dazai">main</a>  <a href="https://chuuaku.atabook.org/">atabook</a>  <a href="https://github.com/dazatsu">twin</a>
 </p>
 
